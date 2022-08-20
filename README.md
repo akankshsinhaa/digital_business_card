@@ -1,15 +1,14 @@
-# application_project_1
+# digital_business_card
 
-A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/91271963/185733841-fb4d21c8-dd5e-4cb3-a72f-5857ff5e044a.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
